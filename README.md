@@ -87,7 +87,7 @@ Presentasikan pekerjaan anda dalam sebuah video. Pada presentasi:
 + Posting video anda di YouTube, di-set "Not For Kids" dengan visibility Unlisted.
 
 ## Submissions:
-
+g
 1. T01.java
 2. T01.fprg
 3. changelog.txt
