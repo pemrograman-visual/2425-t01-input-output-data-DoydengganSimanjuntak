@@ -4,7 +4,7 @@
 import java.util.*;
 import java.lang.Math;
 
-public class T01 {
+public class JavaApplication {
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -19,7 +19,7 @@ public class T01 {
         penulis = input.nextLine();
         int tahunTerbit;
 
-        tahunTerbit = input.nextInt();
+        tahunTerbit = Integer.parseInt(input.nextLine());
         String penerbit;
 
         penerbit = input.nextLine();
@@ -28,16 +28,16 @@ public class T01 {
         formatBuku = input.nextLine();
         double harga;
 
-        harga = input.nextDouble();
+        harga = Double.parseDouble(input.nextLine());
         double margin;
 
-        margin = input.nextDouble();
+        margin = Double.parseDouble(input.nextLine());
         int stok;
 
-        stok = input.nextInt();
+        stok = Integer.parseInt(input.nextLine());
         double rating;
 
-        rating = input.nextDouble();
+        rating = Double.parseDouble(input.nextLine());
         System.out.println(iSBN + "|" + judul + "|" + penulis + "|" + tahunTerbit + "|" + penerbit + "|" + formatBuku + "|" + harga + "|" + margin + "|" + stok + "|" + rating);
     }
 }

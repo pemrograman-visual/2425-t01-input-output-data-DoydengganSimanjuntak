@@ -45,7 +45,8 @@ yes
 
 **Output**:
 ```bash
-978-0201498400|Data Structures and Algorithm Analysis in C|Mark Allen Weiss|1996|Pearson|yes|84.21|20.12|0|4.6
+978-0201498400|Data Structures and Algorith Analysis in C|Mark Allen Weiss|1996|
+Pearson|yes|84.21|20.12|0|4.6
 
 ```
 
